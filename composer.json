@@ -1,0 +1,21 @@
+{
+    "name": "ssiva/yii2-adminlte",
+    "description": "Yii2 AdminLTE Assets Theme",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Siva",
+            "email": "simonsiva13@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ssiva\\AdminLTE\\": ""
+        }
+    }
+}
